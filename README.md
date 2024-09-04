@@ -135,30 +135,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-
-
-	
-<details><summary><h3> :open_file_folder: Mi repositorios </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Ryot211/flutter_ejerscise">
-      		<img src="https://github.com/Ryot211/flutter_ejerscise" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Ryot211/appCar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Ryot211/nodejs-restapi">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    
-  </p>
-</div>
-</details>
 
 </br></br>
 	
